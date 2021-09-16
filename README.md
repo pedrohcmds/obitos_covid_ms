@@ -7,7 +7,7 @@ A pandemia do COVID-19 é um evento muito impactante na vida das pessoas. Por es
 
 Além disso, é difícil entender quais dos casos realmente são causados pela covid, uma vez que muitos pacientes acabam falecendo antes da confirmação da doença. Por esse motivo nos datasets, muitas portes por SARS - Síndrome Respiraória Aguda Grave, ou mesmo pneumonia são somadas ao número de óbitos causados por covid.
 
-Diante disso este projeto busca criar um modelo preditivo para o número de óbitos confirmados de COVID-19 no Estado de Mato Grosso do Sul partir das outras causas relacionadas à doença.
+Diante disso este projeto busca criar um modelo preditivo para o número de óbitos confirmados de COVID-19 no Estado de Mato Grosso do Sul partir da análise da série temporal deses dados.
 
 
 <center><img src="https://user-images.githubusercontent.com/37647139/133510771-5a1b6714-4d27-43ff-8ee1-8ed037f23163.png" alt="Bandeira do Mato Grosso do Sul" width="150"/></center>
