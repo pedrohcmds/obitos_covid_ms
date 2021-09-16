@@ -27,4 +27,20 @@ Os dados usados nesse projeto são derivados da plataforma de dados abertos [bra
 
 ## Resultados
 
+Os resultados demonstram uma tendência que queda do número de casos confirmados de COVID-19 no Mato Grosso do Sul a partir de agosto de 2020, permanecendo assim até o fim do ano.
+
+
+<img src="https://github.com/pedrohcmds/obitos_covid_ms/raw/main/dados/images/modelo_previs%C3%B5es.png" alt="Gráfico do modelo de previsões com changepoints em vermelho" width="600"/>
+
+Além disso foram analisados a tendência, efeitos de feriados e dos dias da semana nos dados, como pode ser visto na imagem abaixo:
+
+<img src="https://github.com/pedrohcmds/obitos_covid_ms/raw/main/dados/images/tend%C3%AAncia.png" alt="Gráfico do modelo de previsões com changepoints em vermelho" width="600"/>
+
 ## Conclusão
+
+
+Dessa forma, entende-se que o modelo previu corretamente a queda do número de casos a aprtir do mês de agosto, quando a vacinação teve início. Além disso, a partir dessas análises foi possível entender quais os pontos no tempo que mais resultaram em alterações de tendência:
+
+- A partir de abril com um tendência de alta forte
+- A partir de Agorsto, com uma tendência de queda pouco acentuada.
+
